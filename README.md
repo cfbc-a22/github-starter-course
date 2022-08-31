@@ -30,7 +30,7 @@ To learn more about cloning, read ["Cloning a Repository"](https://docs.github.c
 
 Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
 
-## 💻 GitHub terms to know 
+## GitHub terms to know 
 
 ### Repositories 
 We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
@@ -88,7 +88,7 @@ GitHub Explore is a great place to do just that … explore :smile: You can find
 
 You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
 
-## 📝 Optional next steps 
+## Optional next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
@@ -96,7 +96,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
-## 📚  Resources 
+## Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
